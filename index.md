@@ -35,7 +35,7 @@ We've just gotten started, and there are many ways you can contribute. Whether y
 
 ---
 
-We're looking for talent in:
+We're looking for help, specifically in:
 
 - Development: e.g. Enhancing our website and digital presence
 - Marketing and Communications: e.g. Online advertising, speaker and attendee engagement, conducting interviews
