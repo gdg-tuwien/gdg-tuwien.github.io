@@ -6,9 +6,7 @@
 > 
 > — Steven Paul Jobs, 1997 -->
 
-> "Es gibt nicht Gutes. Außer man tut es." (There is no good. Unless one does it.)
-> 
-> - Erich Kästner, 1950
+> "Es gibt nicht Gutes. Außer man tut es." (There is no good. Unless one does it.) – Erich Kästner, 1950
 
 <br><br>
 
