@@ -14,6 +14,14 @@
 
 ## Who are we?
 
+In the heart of Austria, beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across Europe. At the forefront of this movement is Metalab, a hackerspace founded in 2006, which has become a beacon for tech enthusiasts and innovators far beyond Austria's borders.
+
+Metalab's influence has inspired the creation and ethos of numerous hackerspaces across Europe and even across the Atlantic. From the renowned Chaos Computer Club (CCC) in Germany to c-base in Berlin, NYC Resistor in New York, and Noisebridge in San Francisco, these spaces share a commitment to fostering creativity, collaboration, and technological innovation in an open and inclusive environment.
+
+We invite you to join our group as we embark on a journey to reconnect with our roots. We are bringing together top researchers and developers to celebrate those who think differently—the misfits, the rebels, the troublemakers, and the round pegs in square holes. We will explore our rich cultural heritage and push the boundaries of innovation.
+
+Whether you're a seasoned hacker or simply curious about technology and culture, we welcome you to be part of this exciting community to share knowledge, work on projects and organize events that inspire creativity and collaboration.
+
 <!-- 
 Google Developer Groups (GDGs) are global communities where developers can connect, learn, and share knowledge. GDGs provide a platform for developers to collaborate on projects, attend workshops and meetups, and stay up-to-date with the latest trends in technology.  
   
