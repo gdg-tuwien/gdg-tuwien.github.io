@@ -8,11 +8,12 @@
 
 > "Es gibt nicht Gutes. Außer man tut es." (There is no good. Unless one does it.) – Erich Kästner, 1950
 
-In the heart of Austria, beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant and dynamic alternative scene that has been pivotal in shaping the hacker movement across Europe. At the forefront of this movement is *Metalab*, a legendary hackerspace founded in 2006. *Metalab* has become a beacon for tech enthusiasts and innovators, inspiring countless hackerspaces across Europe and beyond. From the renowned *Chaos Computer Club (CCC)* in Germany to *c-base* in Berlin, *NYC Resistor* in New York, and *Noisebridge* in San Francisco, these spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment.
 
-We invite you to join our community as we embark on a journey to reconnect with our roots. We are bringing together top researchers and developers to celebrate those who think differently—the misfits, the rebels, the troublemakers, and the round pegs in square holes.
+Nestled in the heart of Austria, **GDG Vienna Tech** we bring together distinguished researchers and engineers from all walks of life. Our focus is on **data systems and learning algorithms**. We aim to follow in the footsteps of Metalab, a pioneering Viennese hackerspace that has inspired countless others across Europe and beyond.
 
-Whether you're a seasoned hacker or just looking for inspiration.
+Beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across Europe At the forefront of this movement is *Metalab*, a hackerspace founded in 2006. *Metalab* which led to the emergence of hackerspaces across Europe and even across the Atlantic. From the renowned *Chaos Computer Club (CCC)* in Germany to *c-base* in Berlin, *NYC Resistor* in New York, and *Noisebridge* in San Francisco, these spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment.
+
+We are here to celebrate those who think differently: the misfits, the rebels, the troublemakers, and the round pegs in square holes. At  GDG Vienna Tech, we embrace this spirit and strive to create a space where unconventional ideas can flourish and where everyone is encouraged to explore the boundaries of what is possible. Join us as we continue this legacy of innovation and exploration.
 
 💡 Interested? Reach out to: https://sueszli.github.io
 
@@ -28,7 +29,7 @@ Whether you're a seasoned hacker or just looking for inspiration.
 
 All opinions expressed are our own:
 
-- "GDG on Campus Vienna University of Technology" (or "GDG Vienna Tech") is an independent group. Our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit: https://developers.google.com/community
+- "Google Developer Group on Campus Vienna University of Technology" (or "GDG Vienna Tech") is an independent group. Our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit: https://developers.google.com/community
 - While our chapter name references the "Vienna University of Technology," this does not imply any official sponsorship or partnership unless explicitly stated.
 - We welcome collaborations with groups and companies beyond Google.
 
