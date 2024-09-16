@@ -47,8 +47,6 @@ We've just gotten started, and there are many ways you can contribute. Whether y
   - A direct point of contact to a regional lead or community manager providing support.
   - Access to the "Google Community Leads" resource hub with technical content and guided training.
 
-<br>
-
 If any of this sounds fun to you and you're passionate about community building or simply want to be part of something exciting, we'd love to have you on board!
 
 Just reach out via Email or Whatsapp @ [https://sueszli.github.io](https://sueszli.github.io).
