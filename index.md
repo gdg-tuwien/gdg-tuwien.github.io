@@ -1,12 +1,6 @@
-<br><br>
-
 <p align="center">
   <img src="./assets/header.png">
 </p>
-
-> "Es gibt nicht Gutes. Außer man tut es." (There is no good. Unless one does it.)
-> 
-> – Erich Kästner, 1950
 
 <br>
 
@@ -19,6 +13,10 @@ There is more to Vienna than meets the eye. Beneath the surface of our beloved "
 <br>
 
 # 📢 Call for Volunteers
+
+> "Es gibt nicht Gutes. Außer man tut es." (There is no good. Unless one does it.)
+> 
+> – Erich Kästner, 1950
 
 We've just gotten started, and there are many ways you can contribute. Whether you're a partner, volunteer or aspiring organizer, we have opportunities for everyone to get involved and make a difference.
 
