@@ -14,11 +14,13 @@ https://gdg.community.dev/gdg-on-campus-vienna-university-of-technology/
 
 ## Legal Disclaimers
 
-Disclaimer:
+All opinions expressed are our own:
 
-- We are independent:
-	- All opinions expressed are our own.
-	- GDG on Campus Vienna University of Technology is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community
-	- Though our chapter name may reference the TU Wien, that does not reflect any program sponsorship by the university or place of higher learning mentioned (yet?).
-- We are not profit driven:
-	- Participation in the program is completely voluntary. Organizers only charge attendees for ticket entry and/or get sponsorships to cover the costs of event operations (e.g., food and drinks, venue, set up, speakers) if needed.
+- "GDG on Campus Vienna University of Technology" (or "GDG Vienna Tech") is an independent group. Our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit: https://developers.google.com/community
+- While our chapter name references the "Vienna University of Technology," this does not imply any official sponsorship or partnership unless explicitly stated.
+- We welcome collaborations with groups and companies beyond Google.
+
+Driven by community, not profit:
+
+- Our group operates on a voluntary basis, with all contributions made by organizers and participants being entirely non-commercial.
+- Organizers only charge attendees for ticket entry and/or get sponsorships to cover the costs of event operations (e.g., food and drinks, venue, set up, speakers) if needed.
