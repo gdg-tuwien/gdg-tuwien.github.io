@@ -2,18 +2,35 @@
   <img src="./assets/header.png">
 </p>
 
+> “Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.”
+> 
+> — Steven Paul Jobs, 1997
+
 ## Who are we?
 
 Google Developer Groups (GDGs) are global communities where developers can connect, learn, and share knowledge. GDGs provide a platform for developers to collaborate on projects, attend workshops and meetups, and stay up-to-date with the latest trends in technology.  
   
 Additionally, GDG on Campus offers a tailored experience for aspiring developers on university campuses. This program provides access to educational resources, mentorship, and networking opportunities specifically designed to support their growth and development within the tech industry.
 
-## 
+<!--
+
+We're about bringing back to life the viennese tech community 
+
+lead sentry dev
+
+maker spaces
+
+-->
+
+Interested? Reach out to: https://sueszli.github.io
+
+<!-- 
 
 - https://gdg-vienna-tech.github.io/
 - https://gdg.community.dev/gdg-on-campus-vienna-university-of-technology/
-<!-- - google groups for communication (people subscribe via email) -->
-- we: https://sueszli.github.io
+- google groups for communication (people subscribe via email)
+
+-->
 
 ## Legal Stuff
 
