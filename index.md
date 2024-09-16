@@ -53,7 +53,7 @@ We're looking forward to having you in our team!
 
 - https://gdg-vienna-tech.github.io/
 - https://gdg.community.dev/gdg-on-campus-vienna-university-of-technology/
-- https://groups.google.com/g/gdg-vienna-tech (different channels for each role)
+- https://groups.google.com/g/gdg-vienna-tech
 
 -->
 
