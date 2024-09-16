@@ -8,7 +8,7 @@
 
 # 👀 About Us
 
-We bring together curious minds from all walks of life. Our focus lies on **data systems and machine learning**. We aim to follow in the footsteps of our friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events.
+We bring together curious minds from all walks of life in **Vienna, Austria**. Our focus lies on **data systems and machine learning**. We aim to follow in the footsteps of our friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events.
 
 There is more to Vienna than meets the eye. Beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across the world. At the forefront of this movement is *Metalab*, a hackerspace founded in 2006, which led to the emergence of groups across Europe and even across the Atlantic: From the renowned *Chaos Computer Club (CCC)* and *c-base* in Berlin, *NYC Resistor* in New York and *Noisebridge* in San Francisco. These spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment. We want to embrace this culture and celebrate those who think differently: the misfits, the rebels, the troublemakers and the round pegs in square holes. We strive to create a space where unconventional ideas can flourish and where everyone is encouraged to explore boundaries.
 
