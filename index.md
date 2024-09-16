@@ -6,15 +6,44 @@
 > 
 > – Erich Kästner, 1950
 
-We bring together curious minds from all walks of life. Our focus lies on **data systems and machine learning**. We aim to follow in the footsteps of our close friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events.
+We bring together curious minds from all walks of life. Our focus lies on **data systems and machine learning**. We aim to follow in the footsteps of our friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events.
 
-There is more to Vienna than meets the eye. Beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across the world. At the forefront of this movement is *Metalab*, a hackerspace founded in 2006, which led to the emergence of hackerspaces across Europe and even across the Atlantic: From the renowned *Chaos Computer Club (CCC)* in Germany to *c-base* in Berlin, *NYC Resistor* in New York and *Noisebridge* in San Francisco. These spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment.
-
-We are here to celebrate those who think differently: the misfits, the rebels, the troublemakers, and the round pegs in square holes. At *GDG Vienna Tech*, we strive to create a space where unconventional ideas can flourish and where everyone is encouraged to explore boundaries.
+There is more to Vienna than meets the eye. Beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across the world. At the forefront of this movement is *Metalab*, a hackerspace founded in 2006, which led to the emergence of groups across Europe and even across the Atlantic: From the renowned *Chaos Computer Club (CCC)* and *c-base* in Berlin, *NYC Resistor* in New York and *Noisebridge* in San Francisco. These spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment. We want to embrace this culture and celebrate those who think differently: the misfits, the rebels, the troublemakers and the round pegs in square holes. We strive to create a space where unconventional ideas can flourish and where everyone is encouraged to explore boundaries.
 
 ## Call for Volunteers
 
-💡 Interested? Reach out to: https://sueszli.github.io
+We've just gotten started, and there are many ways you can contribute. Whether you're a partner, volunteer or aspiring organizer, we have opportunities for everyone to get involved and make a difference.
+
+*For Partners*:
+
+- Provide: event funding and resources
+- Receive: opportunity to hold talks or receive other mutually beneficial arrangements
+
+*For Volunteers*:
+
+- Provide: volunteering service
+- Receive: certificates, reference letters, and valuable industry contacts
+
+*For Organizers*:
+
+- Provide: Regular volunteering and commitment to responsibilities
+- Receive:
+  - Recognition through official GDG Co-Organizer Status.
+  - Invitation to exclusive Google events and channels with Googlers or Google Developer Experts.
+  - A direct point of contact to a regional lead or community manager providing support.
+  - Access to the "Community Leads" resource hub with technical content and guided training.
+
+---
+
+We're looking for talent in:
+
+- Development: e.g. Enhancing our website and digital presence
+- Marketing and Communications: e.g. Online advertising, speaker and attendee engagement, conducting interviews
+- Event Planning: e.g. Securing partnerships, managing budgets, finding venues, and coordinating both physical and online events
+
+If you're passionate about community building or simply want to be part of something exciting, we'd love to have you on board!
+
+Reach out to Yahya via Email or Whatsapp @ https://sueszli.github.io
 
 <!-- 
 
