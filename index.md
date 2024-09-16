@@ -20,6 +20,11 @@ Google Developer Groups (GDGs) are global communities where developers can conne
 Additionally, GDG on Campus offers a tailored experience for aspiring developers on university campuses. This program provides access to educational resources, mentorship, and networking opportunities specifically designed to support their growth and development within the tech industry.
 -->
 
+
+<!-- keep it very short.
+
+then write that visitors can expect distinguished researchers and top industry professionals as speakers and fun workshops and discussions. -->
+
 <!--
 
 We're about bringing back to life the viennese tech community 
