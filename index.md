@@ -6,11 +6,15 @@
 > 
 > – Erich Kästner, 1950
 
+<br>
+
 # 👀 About Us
 
 We bring together curious minds from all walks of life in **Vienna, Austria**. Our focus lies on **data systems and machine learning**. We aim to follow in the footsteps of our friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events.
 
 There is more to Vienna than meets the eye. Beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across the world. At the forefront of this movement is *Metalab*, a hackerspace founded in 2006, which led to the emergence of groups across Europe and even across the Atlantic: From the renowned *Chaos Computer Club (CCC)* and *c-base* in Berlin, *NYC Resistor* in New York and *Noisebridge* in San Francisco. These spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment. We want to embrace this culture and celebrate those who think differently: the misfits, the rebels, the troublemakers and the round pegs in square holes. We strive to create a space where unconventional ideas can flourish and where everyone is encouraged to explore boundaries.
+
+<br>
 
 # 📢 Call for Volunteers
 
@@ -43,11 +47,11 @@ We've just gotten started, and there are many ways you can contribute. Whether y
   - A direct point of contact to a regional lead or community manager providing support.
   - Access to the "Community Leads" resource hub with technical content and guided training.
 
+<br>
+
 If any of this sounds fun to you and you're passionate about community building or simply want to be part of something exciting, we'd love to have you on board!
 
-Introduce yourself via Email or Whatsapp @ [https://sueszli.github.io](https://sueszli.github.io).
-
-We're looking forward to having you in our team!
+Just reach out via Email or Whatsapp @ [https://sueszli.github.io](https://sueszli.github.io).
 
 <!-- 
 
@@ -56,6 +60,8 @@ We're looking forward to having you in our team!
 - https://groups.google.com/g/gdg-vienna-tech
 
 -->
+
+<br>
 
 # 🫂 Our Values
 
