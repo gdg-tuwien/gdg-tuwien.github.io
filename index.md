@@ -36,7 +36,7 @@ We've just gotten started, and there are many ways you can contribute. Whether y
   - Marketing and Communications: e.g. Online advertising, speaker and attendee engagement, conducting interviews
   - Event Planning: e.g. Securing partnerships, managing budgets, finding venues, and coordinating both physical and online events
 
-- Receive: certificates, reference letters, and valuable industry contacts
+- Receive: volunteering certificates and reference letters
 
 *For Organizers*:
 
@@ -45,7 +45,7 @@ We've just gotten started, and there are many ways you can contribute. Whether y
   - Recognition through official GDG Co-Organizer Status.
   - Invitation to exclusive Google events and channels with Googlers or Google Developer Experts.
   - A direct point of contact to a regional lead or community manager providing support.
-  - Access to the "Community Leads" resource hub with technical content and guided training.
+  - Access to the "Google Community Leads" resource hub with technical content and guided training.
 
 <br>
 
