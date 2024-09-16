@@ -8,9 +8,9 @@
 
 We bring together curious minds from all walks of life. Our focus lies on **data systems and machine learning**. We aim to follow in the footsteps of our close friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events.
 
-There is more to Vienna than meets the eye. Beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across the world. At the forefront of this movement is *Metalab*, a hackerspace founded in 2006. *Metalab* which led to the emergence of hackerspaces across Europe and even across the Atlantic: From the renowned *Chaos Computer Club (CCC)* in Germany to *c-base* in Berlin, *NYC Resistor* in New York and *Noisebridge* in San Francisco. These spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment.
+There is more to Vienna than meets the eye. Beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across the world. At the forefront of this movement is *Metalab*, a hackerspace founded in 2006, which led to the emergence of hackerspaces across Europe and even across the Atlantic: From the renowned *Chaos Computer Club (CCC)* in Germany to *c-base* in Berlin, *NYC Resistor* in New York and *Noisebridge* in San Francisco. These spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment.
 
-We are here to celebrate those who think differently: the misfits, the rebels, the troublemakers, and the round pegs in square holes. At *GDG Vienna Tech*, we embrace this spirit and strive to create a space where unconventional ideas can flourish and where everyone is encouraged to explore the boundaries of what is possible. Join us as we continue this legacy of innovation and exploration.
+We are here to celebrate those who think differently: the misfits, the rebels, the troublemakers, and the round pegs in square holes. At *GDG Vienna Tech*, we strive to create a space where unconventional ideas can flourish and where everyone is encouraged to explore boundaries.
 
 ## Call for Volunteers
 
