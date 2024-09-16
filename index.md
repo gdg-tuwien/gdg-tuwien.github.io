@@ -2,11 +2,17 @@
   <img src="./assets/header.png">
 </p>
 
-## What is GDG?
+## Who are we?
 
 Google Developer Groups (GDGs) are global communities where developers can connect, learn, and share knowledge. GDGs provide a platform for developers to collaborate on projects, attend workshops and meetups, and stay up-to-date with the latest trends in technology.  
   
 Additionally, GDG on Campus offers a tailored experience for aspiring developers on university campuses. This program provides access to educational resources, mentorship, and networking opportunities specifically designed to support their growth and development within the tech industry.
+
+## How can you reach us?
+
+https://gdg.community.dev/gdg-on-campus-vienna-university-of-technology/
+
+## Legal Disclaimers
 
 Disclaimer:
 
