@@ -22,6 +22,14 @@ We've just gotten started, and there are many ways you can contribute. Whether y
 *For Volunteers*:
 
 - Provide: volunteering service
+
+  This can be anything that brings you joy, ranging from:
+
+  - Speaking: e.g. Organizing your own workshop
+  - Development: e.g. Enhancing our website and digital presence
+  - Marketing and Communications: e.g. Online advertising, speaker and attendee engagement, conducting interviews
+  - Event Planning: e.g. Securing partnerships, managing budgets, finding venues, and coordinating both physical and online events
+
 - Receive: certificates, reference letters, and valuable industry contacts
 
 *For Organizers*:
@@ -33,17 +41,9 @@ We've just gotten started, and there are many ways you can contribute. Whether y
   - A direct point of contact to a regional lead or community manager providing support.
   - Access to the "Community Leads" resource hub with technical content and guided training.
 
----
+If any of this sounds fun to you and you're passionate about community building or simply want to be part of something exciting, we'd love to have you on board!
 
-We're looking for help, specifically in:
-
-- Development: e.g. Enhancing our website and digital presence
-- Marketing and Communications: e.g. Online advertising, speaker and attendee engagement, conducting interviews
-- Event Planning: e.g. Securing partnerships, managing budgets, finding venues, and coordinating both physical and online events
-
-If you're passionate about community building or simply want to be part of something exciting, we'd love to have you on board!
-
-Reach out to Yahya via Email or Whatsapp @ https://sueszli.github.io
+Introduce yourself via Email or Whatsapp @ https://sueszli.github.io
 
 <!-- 
 
