@@ -2,6 +2,7 @@ templates to look into:
 
 - https://github.com/aitu-dk/webpage
 - https://tinygrad.org/
+- https://github.com/lima-js/limajs.org
 
 <!--
 
