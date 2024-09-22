@@ -1,17 +1,22 @@
 templates to look into:
 
-- https://github.com/utmgdsc/website
 - https://github.com/Bliss-e-V/old-webpage
+- https://tinygrad.org/
+
+<!--
+
+- https://github.com/utmgdsc/website
 - https://www.jungantagen.xyz/
 - https://lambdaclass.com/
 - https://www.etat.xyz/
-- https://tinygrad.org/
 
 - https://github.com/GDGCoimbra/gdgcoimbra.github.io
 - https://github.com/shameelsadaka/gdgcochin18
 - https://github.com/gdg-x/hoverboard
 - https://github.com/gdg-x/delorean
 - https://github.com/gdg-x/aura
+
+-->
 
 style guidelines:
 
