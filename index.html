@@ -1,1 +1,173 @@
-<h1>hi</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>gdg vienna tech</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📢</text></svg>"/>
+  <style>
+    @font-face {
+      font-family: 'Google Sans Display';
+      src: url('./assets/GoogleSansDisplay-Regular.ttf') format('truetype');
+    }
+    body {
+      font-family:'Google Sans Display', sans-serif;
+      /* font-family:'Lucida Console', monospace; */
+      font-size: 18px;
+      color: #111;
+      background-color: white;
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 50px;
+      box-sizing: border-box;
+    }
+    .landing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height:100vh; min-height:100dvh;
+      text-align: center;
+    }
+    svg { width: 100%; height: auto; }
+    .svg-container { width: 100%; max-width: 400px; display: inline-block; }
+    .separator { letter-spacing: -9px; }
+    hr { border: none; height: 2px; background-color: lightgrey; width: 100%; margin: 30px auto; }
+    table { border-collapse: collapse; text-align: center; width: 100%; }
+    td {
+      padding: 5px 20px;
+      border: 1px solid #dddddd;
+    }
+    /* .quiet, .links-container a { color: inherit; } */
+    .links-container { font-size: 24px; margin: 20px; }
+    /* .links-container a { text-decoration: none; margin: 0 10px; } */
+    .links-container a { margin: 0 10px; }
+    .product-photo { display: block; max-width: 640px; width: 100%; margin: 0 auto; }
+    .faqtable dt { margin-bottom: 0.75em; font-style: italic; }
+    .faqtable dd { margin-left: 0; margin-bottom: 2em; }
+  </style>
+</head>
+<body>
+    <div class="landing">
+      <!-- place "header.svg" -->
+      <img src="./assets/header-v2.svg">
+      <div class="links-container">
+        <a>about</a><span class="separator">|</span>
+        <a>sign up</a><span class="separator">|</span>
+        <a>join us</a><span class="separator">|</span>
+        <a>fund us</a>
+
+        <!-- <a href="#tinygrad">tinygrad</a><span class="separator">|</span>
+        <a href="https://docs.tinygrad.org">docs</a><span class="separator">|</span>
+        <a href="#worktiny">jobs</a><span class="separator">|</span>
+        <a href="#tinybox">tinybox</a><span class="separator">|</span>
+        <a href="#faq">FAQ</a> -->
+      </div>
+    </div>
+  </div>
+
+  <hr>
+  <h2 id="tinygrad">tinygrad</h2>
+  <p>We write and maintain <a href="https://github.com/tinygrad/tinygrad">tinygrad</a>, the fastest growing neural
+    network framework (over 23,000 GitHub stars)</p>
+
+  <p>It's extremely simple, and breaks down the most <a
+      href="https://github.com/tinygrad/tinygrad/blob/master/examples/llama.py">complex</a> <a
+      href="https://github.com/geohot/tinygrad/blob/master/examples/stable_diffusion.py">networks</a> into 3 <a
+      href="https://github.com/geohot/tinygrad/blob/master/tinygrad/ops.py">OpTypes</a></p>
+
+  <b>ElementwiseOps</b> are UnaryOps, BinaryOps, and TernaryOps.<br/>
+    They operate on 1-3 tensors and run elementwise.<br/>
+    example: SQRT, LOG2, ADD, MUL, WHERE, etc...<br/><br/>
+  <b>ReduceOps</b> operate on one tensor and return a smaller tensor.<br/>
+    example: SUM, MAX<br/><br/>
+  <b>MovementOps</b> are virtual ops that operate on one tensor and move the data around<br/>
+    Copy-free with <a href="https://github.com/tinygrad/tinygrad/blob/master/tinygrad/shape/shapetracker.py">ShapeTracker</a>.<br/>
+    example: RESHAPE, PERMUTE, EXPAND, etc...<br/>
+
+  <p>But how...where are your CONVs and MATMULs? Read the code to solve this mystery.</p>
+
+  <hr>
+  <h2 id="worktiny">Work at tiny corp</h2>
+  We <a href="https://geohot.github.io/blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html">are now funded</a> and <b>hiring</b> full time software engineers. Very talented interns okay.<br/><br/>
+  See <a href="https://docs.google.com/spreadsheets/d/1WKHbT-7KOgjEawq5h5Ic1qUWzpfAzuD_J06N1JwOCGs/edit?usp=sharing">our bounty page</a> to judge if you might be a good fit. Bounties pay you while judging that fit.<br/><br/>
+  We are also hiring for operations and hardware, but if you haven't contributed to tinygrad your application won't be considered.
+
+  <hr>
+  <h2 id="tinybox">tinybox <span style="color:orange">(now shipping)</span></h2>
+  <img class="product-photo" src="assets/tinybox_pallet.jpg">
+  <p>We sell a computer called the tinybox. It comes in two colors:</p>
+  <table>
+    <tr><td></td></td><td><b style="color:red">red</b></td><td><b style="color:green">green</b></td></tr>
+    <tr><td>TFLOPS</td></td><td>738 FP16 TFLOPS</td><td>991 FP16 TFLOPS</td></tr>
+    <tr><td>GPU Model</td><td>6x 7900XTX</td><td>6x 4090</td></tr>
+    <tr><td>GPU RAM</td><td colspan="2">144 GB</td></tr>
+    <tr><td>GPU RAM bandwidth</td><td>5760 GB/s</td><td>6050 GB/s</td></tr>
+    <tr><td>GPU link bandwidth</td><td colspan="2">6x PCIe 4.0 x16 (64 GB/s)</td></tr>
+    <tr><td>CPU</td><td colspan="2">32 core AMD EPYC</td></tr>
+    <tr><td>System RAM</td><td colspan="2">128 GB</td></tr>
+    <tr><td>System RAM bandwidth</td><td colspan="2">204.8 GB/s</td></tr>
+    <tr><td>Disk size</td><td colspan="2">4 TB raid array + 1 TB boot</td></tr>
+    <tr><td>Disk read bandwidth</td><td colspan="2"><a class="quiet" href="https://twitter.com/__tinygrad__/status/1747467257889116379">28.7 GB/s</a></td></tr>
+    <tr><td>Networking</td><td colspan="2">2x 1 GbE + open OCP3.0 slot (up to <a class="quiet" href="https://store.nvidia.com/en-us/networking/store/product/mcx653436a-hdai/nvidia-connectx-6-vpi-adapter-card-ocp3-0-hdr-200gbe/">200 GbE</a>)</td></tr>
+    <tr><td>Noise</td><td colspan="2">&lt; 50 dB, 31 low speed fans</td></tr>
+    <tr><td>Power Supply</td><td colspan="2">2x 1600W, 100V~240V</td></tr>
+    <tr><td>BMC</td><td colspan="2">AST2500</td></tr>
+    <tr><td>Operating System</td><td colspan="2">Ubuntu 22.04</td></tr>
+    <tr><td>Dimensions</td><td colspan="2">12U, 16.25" deep, 90 lbs</td></tr>
+    <tr><td>Rack?</td><td colspan="2">Freestanding or rack <a class="quiet" href="https://rackmountmart.store.turbify.net/26slidrailfo.html">mount</a></td></tr>
+    <tr><td>Driver Quality</td></td><td>Acceptable</td><td>Great</td></tr>
+    <tr><td>NOW SHIPPING</td></td><td><a href="https://tinycorp.myshopify.com/products/tinybox-red">BUY FOR $15,000</a></td><td><a href="https://tinycorp.myshopify.com/products/tinybox-green">BUY FOR $25,000</a></td></tr>
+  </table>
+
+  <hr>
+  <h2 id="faq">FAQ</h2>
+  <dl class="faqtable">
+    <dt>What is a tinybox?</dt>
+    <dd>It is a very powerful computer for deep learning, and likely the best performance/$. It was <a href="https://public.tableau.com/views/MLCommons-Training_16993769118290/MLCommons-Training">benchmarked</a> in MLPerf Training 4.0 vs computers that cost 10x as much.</dd>
+
+    <dt>How do I get a tinybox?</dt>
+    <dd>Place an order through the links above. The factory is up and running, and it will ship within one week of us receiving the payment. Currently offering pickup in San Diego + shipping worldwide.</dd>
+
+    <dt>Where can I learn more about the tinybox?</dt>
+    <dd>We have a lot of content on our <a href="https://x.com/__tinygrad__">Twitter</a>, we also have a <a href="https://docs.tinygrad.org/tinybox/">tinybox docs page</a>.</dd>
+
+    <dt>Is tinygrad used anywhere?</dt>
+    <dd>tinygrad is used in <a href="https://github.com/commaai/openpilot">openpilot</a> to run the driving model on the Snapdragon 845 GPU. It replaces <a href="https://developer.qualcomm.com/sites/default/files/docs/snpe/overview.html">SNPE</a>, is faster, supports loading onnx files, supports training, and allows for attention (SNPE only allows fixed weights).</dd>
+
+    <dt>Is tinygrad inference only?</dt>
+    <dd>No! It supports full forward and backward passes with autodiff. <a href="https://github.com/tinygrad/tinygrad/blob/master/tinygrad/function.py">This</a> is implemented at a level of abstraction higher than the accelerator specific code, so a tinygrad port gets you this for free.</dd>
+
+    <dt>How can I use tinygrad for my next ML project?</dt>
+    <dd>Follow the installation instructions on <a href="https://github.com/tinygrad/tinygrad">the tinygrad repo</a>. It has a similar API to PyTorch, yet simpler and more refined. Less stable though while tinygrad is in alpha, so be warned, though it's been fairly stable for a while.</dd>
+
+    <dt>When will tinygrad leave alpha?</dt>
+    <dd>When we can reproduce a common set of papers on 1 NVIDIA GPU 2x faster than PyTorch. We also want the speed to be good on the M1. ETA, Q2 next year.</dd>
+
+    <dt>How is tinygrad faster than PyTorch?</dt>
+    <dd>For most use cases it isn't yet, but it will be. It has three advantages:
+      <li>It compiles a custom kernel for every operation, allowing extreme shape specialization.</li>
+      <li>All tensors are lazy, so it can aggressively fuse operations.</li>
+      <li>The backend is 10x+ simpler, meaning optimizing one kernel makes everything fast.</li>
+    </dd>
+
+    <dt>Where is tinygrad development happening?</dt>
+    <dd>On GitHub and <a href="https://discord.com/invite/ZjZadyC7PK">on Discord</a></dd>
+
+    <dt>How can the tiny corp work for me?</dt>
+    <dd>Email me, george@tinygrad.org. We are looking for contracts and sponsorships to improve various aspects of
+      tinygrad.</a></dd>
+
+    <dt>How can I work for the tiny corp?</dt>
+    <dd>See <b>hiring</b> above. Contributions to <a href="https://github.com/tinygrad/tinygrad">tinygrad</a> on GitHub
+      always
+      welcome, and a good way to get hired.</dd>
+
+    <dt>Can I invest in the tiny corp?</dt>
+    <dd>Invest with your PRs.</dd>
+
+    <dt>What's the goal of the tiny corp?</dt>
+    <dd>To accelerate. We will commoditize the petaflop and enable AI for everyone.</dd>
+  </dl>
+</body>
+</html>
