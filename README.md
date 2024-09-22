@@ -1,6 +1,6 @@
 templates to look into:
 
-- https://github.com/Bliss-e-V/old-webpage
+- https://github.com/aitu-dk/webpage
 - https://tinygrad.org/
 
 <!--
