@@ -1,4 +1,4 @@
-templates to look into:
+nice templates:
 
 - https://github.com/aitu-dk/webpage
 - https://tinygrad.org/
