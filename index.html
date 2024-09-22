@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <title>gdg tuwien</title>
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📢</text></svg>"/>
   <style>
     @font-face {
       font-family: 'Google Sans Display';
@@ -28,6 +27,31 @@
       min-height:100vh; min-height:100dvh;
       text-align: center;
     }
+
+    .sticky-note {
+      position: fixed;
+      bottom: -1rem;
+      right: 3rem;
+      background-color: #FFFF88;
+      padding: 70px;
+      border-radius: 80px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+      transform: rotate(-10deg);
+      transition: all 0.2s ease;
+    }
+    .sticky-note a {
+      text-decoration: none;
+      color: #333;
+      font-size: 3.5rem;
+      font-weight: bold;
+    }
+    .sticky-note:hover {
+      transform: scale(1.05) rotate(0deg);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    }
+
+    .photo { display: block; max-width: 1280px; width: 100%; margin: 0 auto; }
+
     svg { width: 100%; height: auto; }
     .svg-container { width: 100%; max-width: 400px; display: inline-block; }
     hr { border: none; height: 2px; background-color: lightgrey; width: 100%; margin: 30px auto; }
@@ -37,33 +61,37 @@
     .links-container { font-size: 2rem; margin: 2rem; }
     .links-container a { text-decoration: none; margin: 0 10px; }
     .links-container a { margin: 0 25px; }
-    .product-photo { display: block; max-width: 640px; width: 100%; margin: 0 auto; }
     .faqtable dt { margin-bottom: 0.75em; font-style: italic; }
     .faqtable dd { margin-left: 0; margin-bottom: 2em; }
   </style>
 </head>
+
+<div class="sticky-note">
+  <a href="https://gdg.community.dev/gdg-on-campus-vienna-university-of-technology/" target="_blank" rel="noopener noreferrer">✌️ Check it out!</a>
+</div>
+
 <body>
     <div class="landing">
       <!-- place "header.svg" -->
       <img src="./assets/header-v2.svg">
       <div class="links-container">
-        <a href="#about">about</a><span class="separator">|</span>
-        <a href="#signup">sign up</a><span class="separator">|</span>
-        <a href="#join">join us</a><span class="separator">|</span>
+        <a href="#about">about us</a><span class="separator">|</span>
+        <a href="#join">join our team</a><span class="separator">|</span>
         <a href="#sponsor">sponsor us</a>
       </div>
     </div>
   </div>
 
   <hr>
+  
+  <img class="photo" src="./assets/event.jpg">
+
 
   <h2 id="about">about</h2>
 
   <p>
     hello world
   </p>
-
-  <h2 id="signup">sign up</h2>
 
   <h2 id="join">join us</h2>
 
