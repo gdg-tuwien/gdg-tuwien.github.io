@@ -11,7 +11,7 @@
     }
     body {
       font-family:'Google Sans Display', sans-serif;
-      font-size: 2rem;
+      font-size: 1.5rem;
       color: #111;
       background-color: white;
       max-width: 1280px;
@@ -42,7 +42,7 @@
 
       text-decoration: none;
       color: #333;
-      font-size: 3.5rem;
+      font-size: 3rem;
       font-weight: bold;
     }
     .sticky-note:hover {
@@ -55,6 +55,7 @@
     section { margin-bottom: 15rem; }
 
     svg { width: 100%; height: auto; }
+    i { margin-right: 10px; }
     .svg-container { width: 100%; max-width: 400px; display: inline-block; }
     hr { border: none; height: 2px; background-color: lightgrey; width: 100%; margin: 30px auto; }
     table { border-collapse: collapse; text-align: center; width: 100%; }
@@ -66,7 +67,11 @@
     .faqtable dt { margin-bottom: 0.75em; font-style: italic; }
     .faqtable dd { margin-left: 0; margin-bottom: 2em; }
 
-    section#legal { color: #999; }
+    #sponsors { list-style-type: none; display: flex; justify-content: left; align-items: center; }
+    #sponsors li { display: flex; align-items: center; }
+    #sponsors img { margin-right: 20px; max-height: 40px; }
+
+    #legal { color: #999; }
   </style>
 </head>
 
@@ -84,28 +89,52 @@
     <img src="./assets/header-v2.svg">
       <div class="links-container">
         <a href="#about">about us</a><span class="separator">|</span>
-        <a href="#join">join our team</a><span class="separator">|</span>
-        <a href="#sponsor">sponsor us</a>
+        <a href="#join">join our team</a>
       </div>
     </div>
   </div>
-
-  <section>
-    <img class="photo" src="./assets/event.jpg">
-  </section>
+  
+  <img class="photo" src="./assets/event.jpg">
+  <br>
 
   <section id="about">
-    <h2>about</h2>
-    <p>We are a volunteer-run, official chapter of Google's worldwide developer network. We bring together curious minds from all walks of life in <strong>Vienna, Austria</strong>.</p>
-    <p>Our vision is to provide an environment to deeply engage with systems and learning algorithms by providing speaker series, reading groups and social events.</p>
+    <h2>about</h2>    
+    <p><i>In short:</i> We organize machine learning and AI events.</p>
+
+    <p>We are a volunteer-run, official chapter of Google's worldwide developer network. We bring together curious minds from all walks of life in Vienna, Austria.</p>
+    <p>Our vision is to provide an environment to deeply engage with data systems and learning algorithms by providing speaker series, reading groups and social events.</p>
   </section>
   
   <section id="join">
     <h2>join our team</h2>
+    <p>We've just gotten started and have opportunities for everyone to get involved and make a difference.</p>
+
+    <p>
+      <i>Becoming a Volunteer:</i> Anyone can join our team and help out with events.
+    </p>
+    <ul>
+      <li>Provide: volunteering service (e.g. event planning, marketing and communications)</li>
+      <li>Receive: volunteering certificates and reference letters</li>
+    </ul>
+
+    <p>
+      <i>Becoming an Organizer:</i> For those who want to take on more responsibilities.
+    </p>
+    <ul>
+      <li>Provide: regular volunteering and commitment to responsibilities</li>
+      <li>Receive: recognition through official GDG Co-Organizer Status, invitation to exclusive Google events and channels with Googlers or Google Developer Experts, a direct point of contact to a regional lead or community manager providing support, access to the "Google Community Leads" resource hub with technical content and guided training</li>
+    </ul>
+
+    <p>If any of this sounds fun to you and you're passionate about community building or simply want to be part of something exciting, we'd love to have you on board!</p>
+    <p>Just reach out via Email or Whatsapp @ <a href="https://sueszli.github.io" class="quiet">sueszli.github.io</a>.</p>
   </section>
   
   <section id="sponsor">
-    <h2>sponsor us</h2>
+    <h2>partners & sponsors</h2>
+    <p>A big thank you to:</p>
+    <ul id="sponsors">
+      <li><img src="./assets/google.png" alt="Google"> Google for Developers</li>
+    </ul>
   </section>
   
   <section id="legal">

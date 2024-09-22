@@ -65,10 +65,8 @@ Just reach out via Email or Whatsapp @ [https://sueszli.github.io](https://suesz
 
 <!-- 
 
-- https://gdg-vienna-tech.github.io/
 - https://gdg.community.dev/gdg-on-campus-vienna-university-of-technology/
 - https://groups.google.com/g/gdg-vienna-tech
-
 -->
 
 <br>
