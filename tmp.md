@@ -8,13 +8,13 @@
 
 # 👀 About Us
 
-We are a volunteer-run, official chapter of Google's worldwide developer network, known as Google Developer Groups (GDGs).
+<!-- We are a volunteer-run, official chapter of Google's worldwide developer network, known as Google Developer Groups (GDGs).
 
 We bring together curious minds from all walks of life in **Vienna, Austria**.
 
 Our focus lies on **data systems and machine learning**.
 
-We aim to follow in the footsteps of our friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events.
+We aim to follow in the footsteps of our friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events. -->
 
 <!--
 
