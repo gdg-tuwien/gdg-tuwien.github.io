@@ -8,4 +8,4 @@ up:
 .PHONY: help # generate help message
 help:
 	echo "Usage: make [target]\n"
-	grep '^.PHONY: .* #' Makefile | sed 's/\.PHONY: \(.*\) # \(.*\)/\1	\2/' | expand -t20
+	@grep '^.PHONY: .* #' Makefile | sed 's/\.PHONY: \(.*\) # \(.*\)/\1	\2/' | expand -t20
